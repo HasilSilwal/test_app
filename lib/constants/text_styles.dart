@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_app/constants/app_colors.dart';
 import 'package:test_app/helpers/color_from_hex.dart';
 
 final kHeadingTextStyle = TextStyle(

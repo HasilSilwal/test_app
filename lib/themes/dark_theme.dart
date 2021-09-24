@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:test_app/constants/constants.dart';
 
 final darkTheme = ThemeData.dark().copyWith(
   // primaryColor: AppColors.primaryColor,
